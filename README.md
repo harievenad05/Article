@@ -7,7 +7,7 @@
 
 
 ## General info
-Native iOS
+Native iOS app that uses nytimes.com's api
 
 ## Technologies
 iOS with Alamofire 
